@@ -1,6 +1,6 @@
 # retronaut
 
-> A Vue.js project
+> A carefully curated and beautifully designed list of classic Nintendo games re-born in the 21st century. Enjoy Super Nintendo, Sega Genesis, Gameboy Advance (GBA) and many more.
 
 ## Build Setup
 
